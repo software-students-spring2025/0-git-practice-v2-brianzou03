@@ -7,3 +7,8 @@ The article covers the career journey of Lindsey Redd, who has worked for many l
 ## Andrew Bao
 
 I think there is definetely a lot to know about the software engineering job hunt that is not taught to students in university and Lindsey Redd does a good job on giving the essential pointers. Experience and interpersonal skills are very important both in the interview process and work environment. I also do agree that interviews tend to be quite hard but often do no reflect what you will be doing at the job.
+
+
+## Bryant To
+
+I find the article interesting as it talks about Lindsey Redd's career path to becoming a software engineer which parallels alot with my own journey through college. She also tackles alot of misconceptions revolving around what it means to be a software engineer; its not just about coding, but also communication, management, adaptability, etc.
